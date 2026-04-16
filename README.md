@@ -14,3 +14,5 @@ luego te reenviara a esta parte
 hay deves ingresar tu gmail y contraseña y LISTO lla tienes tu cuenta de githus :)
 
 y podras crear y compartir codigo 
+
+(pido disculpas se me paso tomar foto del codigo de verificaccion y la parte donde creas cuenta nueva :( )
