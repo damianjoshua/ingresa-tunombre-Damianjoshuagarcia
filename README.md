@@ -6,3 +6,6 @@ entra ala pagina y le daras a crear cuenta  unaves adentro te aparesera esto
 
 ingresa tu gmail pasword y crea un user name si lla existe te dara recomendaciones
 
+unavez te acepta la informaccion te enviara un codigo de verificaccion el cual ingresaras
+
+luego te reenviara a esta parte
