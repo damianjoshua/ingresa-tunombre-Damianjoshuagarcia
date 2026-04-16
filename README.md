@@ -9,3 +9,8 @@ ingresa tu gmail pasword y crea un user name si lla existe te dara recomendacion
 unavez te acepta la informaccion te enviara un codigo de verificaccion el cual ingresaras
 
 luego te reenviara a esta parte
+!{insert imagen}(https://github.com/damianjoshua/ingresa-tunombre-Damianjoshuagarcia/blob/62a03f2f3fa08fb7508b8ab6ffaf8bb6972c250e/20260415_163949.jpg
+
+hay deves ingresar tu gmail y contraseña y LISTO lla tienes tu cuenta de githus :)
+
+y podras crear y compartir codigo 
